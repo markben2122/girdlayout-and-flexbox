@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color:rgb(194, 183, 183) ;
+    padding: 100px;
+}
+main{
+    display: flex;
+    width: 50%;
+    margin: auto;
+    height: 60vh; ;
+    justify-items: center;
+    border:0px;
+    border-radius: 8px;
+    display: flexbox;
+    
+    
+
+}
+.bid{
+    background-color: hsl(31, 77%, 52%);
+    
+}
+.rid{
+    background-color: hsl(184, 100%, 22%);
+}
+.kid{
+    background-color: hsl(179, 100%, 13%)
+    ;
+}
+.bid h1{
+    color: hsl(0, 0%, 95%);
+    padding: 20px;
+    ;
+    font-family: 'Big Shoulders Display', cursive;
+    
+
+}
+.bid p{ 
+    color:  hsla(0, 0%, 100%, 0.75);
+    padding: 20px;
+    font-size: 15px;
+    line-height:20px;
+    font-family: 'Lexend Deca', sans-serif;
+
+}
+.right{
+    padding: 20px;
+}
+button{
+    align-items: center;
+    padding:10px;
+    background-color: transparent;
+    border-color:hsla(0, 0%, 100%, 0.75) ;
+    border-radius: 30px;
+    margin: 50px;
+    border-style:solid;
+    border-width: 3px;
+    color: hsl(0, 0%, 95%);
+    font-family: 'Lexend Deca', sans-serif;
+}
+.rid h1{
+    color: hsl(0, 0%, 95%);
+    padding: 20px;
+    ;
+    font-family: 'Big Shoulders Display', cursive;
+
+}
+.rid p{ 
+    color:  hsla(0, 0%, 100%, 0.75);
+    padding: 20px;
+    font-size: 15px;
+    line-height:20px;
+    font-family: 'Lexend Deca', sans-serif;
+
+}
+.kid h1{
+    color: hsl(0, 0%, 95%);
+    padding: 20px;
+    ;
+    font-family: 'Big Shoulders Display', cursive;
+    
+
+
+}
+.kid p{
+    color:  hsla(0, 0%, 100%, 0.75);
+    padding: 20px;
+    font-size: 15px;
+    line-height:20px;
+    font-family: 'Lexend Deca', sans-serif;
+
+}
